@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gfxandroid.theme.Purplebread"
+    xmlns:pluto="http://www.w3.org/2001/pluto.html"
+    android:hasCode="false">
+
+    <application android:icon="@drawable/icon" android:label="@string/theme_name">
+              <activity android:name="com.tmobile.theme.Foo"
+                  android:label="@string/theme_name"/>
+    </application>
+
+    <theme
+        pluto:themeId="Purpbread"
+        pluto:styleId="@style/Purpbread"
+        pluto:name="@string/theme_name"
+        pluto:thumbnail="media/images/thumb.png"
+        pluto:preview="media/images/preview.png"
+        pluto:author="@string/author"
+        pluto:copyright="@string/copyright"
+        pluto:wallpaperImage="media/images/homescreen.jpg"
+        pluto:styleName="@string/style_appearance_name"
+	pluto:ringtoneName="Whistler"
+	pluto:ringtoneFileName="media/audio/ringtones/Whistler.mp3"
+	pluto:notificationRingtoneName="Spacious"
+	pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3"
+        />
+
+</manifest>
