@@ -14,16 +14,15 @@
         pluto:themeId="Purpbread"
         pluto:styleId="@style/Purpbread"
         pluto:name="@string/theme_name"
-        pluto:thumbnail="media/images/thumb.png"
-        pluto:preview="media/images/preview.png"
+        pluto:preview="@drawable/preview"
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
-        pluto:wallpaperImage="media/images/homescreen.jpg"
+        pluto:wallpaperImage="@drawable/wallpaper"
         pluto:styleName="@string/style_appearance_name"
-	pluto:ringtoneName="Whistler"
-	pluto:ringtoneFileName="media/audio/ringtones/Whistler.mp3"
-	pluto:notificationRingtoneName="Spacious"
-	pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3"
+	pluto:ringtoneName="Shocking"
+	pluto:ringtoneFileName="media/audio/ringtones/Shocking.mp3"
+	pluto:notificationRingtoneName="Teleport"
+	pluto:notificationRingtoneFileName="media/audio/notifications/Teleport.mp3"
         />
 
 </manifest>
