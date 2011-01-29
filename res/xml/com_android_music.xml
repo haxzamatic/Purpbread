@@ -18,4 +18,11 @@
 <resource-redirections>
     <item name="drawable/buttonbar_focused">@drawable/frameworks_res_tab_focus</item>
     <item name="drawable/buttonbar_pressed">@drawable/frameworks_res_tab_press</item>
+	<item name="drawable/app_video">@drawable/app_video</item>
+	<item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
+	<item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+	<item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_focus_r</item>
+	<item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
+	<item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+	<item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press_r</item>
 </resource-redirections>

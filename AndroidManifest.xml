@@ -3,7 +3,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.gfxandroid.theme.Purplebread"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    android:hasCode="false">
+    android:hasCode="false" android:versionCode="12" android:installLocation="internalOnly" android:versionName="2.9.2">
 
     <application android:icon="@drawable/icon" android:label="@string/theme_name">
               <activity android:name="com.tmobile.theme.Foo"
@@ -26,3 +26,4 @@
         />
 
 </manifest>
+

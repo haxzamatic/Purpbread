@@ -21,4 +21,6 @@
     <item name="drawable/btn_camera_review">@drawable/com_android_camera_btn_camera_review</item>
     <item name="drawable/btn_mode_switch_knob">@drawable/com_android_camera_btn_mode_switch_knob</item>
     <item name="drawable/btn_shutter">@drawable/com_android_camera_btn_shutter</item>
+	<item name="drawable/ic_launcher_camera">@drawable/ic_launcher_camera</item>
+	<item name="drawable/ic_launcher_video_camera">@drawable/ic_launcher_video_camera</item>
 </resource-redirections>
